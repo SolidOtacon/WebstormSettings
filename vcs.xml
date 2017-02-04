@@ -38,6 +38,10 @@
           <option name="url" value="https://gcidaylight.visualstudio.com/DefaultCollection/Daylight/_git/restday" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JscramblerBlog/jScrambler-Angular2-End-To-End.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\tmatthias\WebstormProjects/" />
